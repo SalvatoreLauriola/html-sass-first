@@ -1,0 +1,22 @@
+body {
+    background-color: lightgreen
+}
+
+$brand-title: blue;
+
+$sub-brand: yellow;
+
+$paragraph: black;
+
+
+h2{
+    color: $brand-title;
+}
+
+h3{
+    color: $sub-brand;
+}
+
+p {
+    color: $paragraph;
+}
